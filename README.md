@@ -8,8 +8,12 @@ Scenario 2 : Segment with pageview, where each page represent different rowTempa
 Scenario # : Segment with Coverflow along wih onSwipe event where we can read the swiped record index details.
 
 Platform details :
+
 1) Android
+
 2) iOS
+
 3) SPA - Covers only Scenario1
 
-Avialable from : Kony-6.5 and above versions
+Avialable from : 
+Kony-6.5 and above versions
